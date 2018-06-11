@@ -36,11 +36,11 @@ CheckIsInteger() - this method class common class method to check whether the us
 CheckSuperRateRange() - This method in turn calls the common class method to check the range of the Super Rate  and returns a boolean result.
 Below are the classes for different TaxSlab, so if a new taxslabs gets added only new class needs to be added.
 
-TaxSlab1
-TaxSlab2
-TaxSlab3
-TaxSlab4
-TaxSlab5
+TaxSlab1 <br/>
+TaxSlab2 <br/>
+TaxSlab3 <br/>
+TaxSlab4 <br/>
+TaxSlab5 <br/>
 
 
 
