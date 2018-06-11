@@ -1,7 +1,7 @@
 # payslip
 
 Model
-PaymentComponents.cs
+PaymentComponents.cs <br/>
 This is a model class named as PaymentComponents.cs. It consists of properties that hold 
 User Input and values that needs to be shown in the Output.
 
