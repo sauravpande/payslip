@@ -60,18 +60,18 @@ UnitTest
 This is a unit test project added to the solution to test unit the methods
 UnitTest1.cs
 This a class named as UnitTest1.cs and contains following test methods:
-TestIncomeTaxCalculatedCorrectly
-TestIncomeTaxCalculatedIncorrectly
-TestGrossIncomeCalculatedIncorrectly
-TestGrossIncomeCalculatedProperly
-TestNetIncomeCalculatedInorrectly
-TestNetIncomeCalculatedCorrectly
-TestSuperAmountCalculatedCorrectly
-TestSuperAmount
-TestIsIntegerFunction
-TestSuperRateRange
-CalculateCalcuNetIncomeReturnNotNull
-CalculateCalcSuperReturnNotNull
-CalculateCalcIncomeTaxAsPerTaxSlabReturnNotNull
-CalculateCheckSuperRateRangeReturnNotNull
-CalculateCalcIncomeTaxNotNull
+TestIncomeTaxCalculatedCorrectly <br/>
+TestIncomeTaxCalculatedIncorrectly <br/>
+TestGrossIncomeCalculatedIncorrectly <br/>
+TestGrossIncomeCalculatedProperly <br/>
+TestNetIncomeCalculatedInorrectly <br/>
+TestNetIncomeCalculatedCorrectly <br/>
+TestSuperAmountCalculatedCorrectly <br/>
+TestSuperAmount <br/>
+TestIsIntegerFunction <br/>
+TestSuperRateRange <br/>
+CalculateCalcuNetIncomeReturnNotNull <br/>
+CalculateCalcSuperReturnNotNull <br/>
+CalculateCalcIncomeTaxAsPerTaxSlabReturnNotNull <br/>
+CalculateCheckSuperRateRangeReturnNotNull <br/>
+CalculateCalcIncomeTaxNotNull <br/>
